@@ -59,7 +59,7 @@
     "obsidian@hq-marketplace": false,
     "ponytail@hq-marketplace": false
   },
-  "model": "claude-sonnet-5",
+  "model": "claude-opus-5",
   "effortLevel": "high",
   "statusLine": {
     "type": "command",
