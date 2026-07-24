@@ -5,7 +5,8 @@
       "Skill",
       "mcp__Claude_Code_Remote__create_trigger",
       "mcp__Claude_Code_Remote__send_later"
-    ]
+    ],
+    "defaultMode": "bypassPermissions"
   },
   "enableAllProjectMcpServers": false,
   "enabledPlugins": {
