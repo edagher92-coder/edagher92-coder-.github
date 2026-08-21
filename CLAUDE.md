@@ -47,3 +47,12 @@ kit, etc.). Do not duplicate that content here; treat it as inherited.
 Whoever picks this up next should confirm with the owner (Elie Dagher) what
 this repo is actually for, then replace this file's "Repository purpose"
 section with the real answer.
+
+---
+
+## Model routing policy
+
+This repo follows the Claude HQ model-routing standard — see
+[`MODEL-ROUTING-POLICY.md`](./MODEL-ROUTING-POLICY.md) at the repo root
+(v4.0: Sonnet 5 default · Haiku 4.5 mechanical · Opus 4.8 high-stakes ·
+Fable 5 reserve · Mythos 5 manual-only).
